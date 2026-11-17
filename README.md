@@ -21,6 +21,9 @@ Key objectives:
 - Verify digital I/O, relay switching, power supplies, and measurement paths.
 - Present diagnostic results to support maintenance and troubleshooting.
 
+The generic EOT bench that's going to be tested.
+
+<img src="EOT5.png" alt="New generic EOT test bench" width="700">
 ## System architecture
 
 ```mermaid
