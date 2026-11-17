@@ -89,7 +89,11 @@ The two applications support a complementary workflow: the automatic self-test d
 3. Run the verification sequence.
 4. Review the diagnostic results.
 5. Investigate any detected faults before product testing.
+## Project demonstration
 
+Watch the realisation:
+
+[▶ Watch the demonstration](https://youtu.be/9tf04vJmTts)
 ## Outcome
 
 - Developed an external device for verifying EOT bench resources.
