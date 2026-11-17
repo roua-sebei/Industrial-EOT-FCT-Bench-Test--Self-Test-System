@@ -59,8 +59,7 @@ The LabVIEW application coordinates the verification sequence, communicates with
 The results help identify which resource or electrical path requires further investigation.
 ### Application interface
 
-<img src="Screenshot 2026-06-21 095815.png
-" alt="LabVIEW self-test application interface" width="800">
+<img src="Screenshot 2026-06-21 095815.png" alt="LabVIEW self-test application interface" width="800">
 
 ## LabVIEW maintenance application
 
